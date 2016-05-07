@@ -1,3 +1,7 @@
+data:store the data needed in the program.
+
+fundCrawlCode：this folder Store the crawl code of http://fund.sciencenet.cn/
+
 1JaccardSimCount_3phase.py
 generate similarity matrix by compute similarity coefficient
 
